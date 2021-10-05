@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Students",
+        "price": 25000,
+        "key": 1,
+        "catageory": "Premimum",
+        "img": "https://media.istockphoto.com/photos/elementary-students-working-with-teacher-in-library-picture-id512994084?s=612x612"
+    },
+    {
+        "name": "Classroom",
+        "price": 300,
+        "key": 2,
+        "catageory": "Premimum",
+        "img": "https://media.istockphoto.com/photos/happy-black-student-raising-arm-to-answer-question-while-attending-picture-id1307457391?s=612x612"
+    },
+    {
+        "name": "Library",
+        "price": 5,
+        "key": 3,
+        "catageory": "Premimum",
+        "img": "https://media.istockphoto.com/photos/university-library-gifted-black-girl-uses-laptop-writes-notes-for-the-picture-id1248521772"
+    },
+    {
+        "name": "Fields",
+        "price": 15,
+        "key": 4,
+        "catageory": "Premimum",
+        "img": "https://media.istockphoto.com/photos/football-on-the-field-picture-id471404585"
+    }
+]

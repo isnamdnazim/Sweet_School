@@ -1,0 +1,22 @@
+.back-container{
+    text-align: center;
+}
+.back-container h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.bg-image h1{
+    text-align: center;
+    color: rgb(0, 0, 0)
+}
+.navLink-btn{
+    text-decoration: none;
+    background-color: hotpink;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    position: relative;
+    top: 50%;
+}

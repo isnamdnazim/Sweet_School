@@ -1,0 +1,30 @@
+[
+    {
+        "name": "School Bus",
+        "key": 2,
+        "catageory": "For All Student",
+        "price": 460,
+        "duration": "3 Month",
+        "img": "https://media.istockphoto.com/photos/school-bus-driving-on-monument-valley-arizona-usa-picture-id1285885327?s=612x612"
+    },
+    
+    {
+        "name": "Scholarships",
+        "key": 1,
+        "catageory": "For Brilliant",
+        "price": 0,
+        "duration": "12 Month",
+        "img": "https://media.istockphoto.com/photos/scholarship-application-form-picture-id485541077?s=612x612"
+    },
+  
+    
+    {
+        "name": "Best Teacher",
+        "key": 3,
+        "catageory": "For All Student",
+        "price": 1200,
+        "duration": "5 Month",
+        "img": "https://media.istockphoto.com/photos/portrait-of-african-american-female-teacher-smiling-in-the-class-at-picture-id1328488607?s=612x612"
+    }
+    
+]
